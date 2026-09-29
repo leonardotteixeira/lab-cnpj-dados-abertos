@@ -1,0 +1,8 @@
+# Projeto que lida com dados pessoais: versionar SOMENTE codigo e documentacao.
+*
+!.gitignore
+!README.md
+!.env.example
+!scripts/
+!scripts/*.py
+!scripts/*.sh
